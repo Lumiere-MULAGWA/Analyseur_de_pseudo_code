@@ -1,0 +1,13 @@
+DECLARER x COMME entier
+DECLARER y COMME entier
+x = 10
+y = x + 5
+SI y == 15 ALORS
+    ECRIRE y
+FINSI
+POUR i DANS intervalle(1, 3) FAIRE
+    ECRIRE i
+FINPOUR
+LIRE z
+z = z * 2
+ECRIRE z

@@ -104,7 +104,7 @@ def analyser_pseudo_code(nom_fichier):
 # Exemple principal
 if __name__ == "__main__":
     # Nom du fichier contenant le pseudo-code
-    nom_fichier = "code.txt"
+    nom_fichier = "/code_source/code.txt"
     
     # Analyser et afficher le résultat
     resultat = analyser_pseudo_code(nom_fichier)
